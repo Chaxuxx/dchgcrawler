@@ -5,4 +5,4 @@
 - weekuser.txt
 - run_doubleclick.bat # windows 下双击运行即可
 
-- 
+weekuser.txt 包括以@开头的用户名
