@@ -7,3 +7,5 @@
 
 windows 下双击运行 run_doubleclick.bat 即可。
 weekuser.txt 包括以 `@` 开头的用户名。
+
+!()[GD2KIjMWUAEcSns.png]
